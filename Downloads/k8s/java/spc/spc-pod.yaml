@@ -8,7 +8,7 @@ metadata:
     app: spc
 spec:
   containers:
-    - name: spcapp
+    - name: spc app
       image: shaikkhajaibrahim/spcjan2024:1.0
       resources:
         requests:
